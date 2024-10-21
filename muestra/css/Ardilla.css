@@ -1,0 +1,20 @@
+body {
+    background-color: #3b0c5b;
+}
+
+.card {
+    background-color: white;
+}
+
+.card-header {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #007bff;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+}
